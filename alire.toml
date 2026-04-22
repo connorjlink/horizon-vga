@@ -1,0 +1,9 @@
+name = "horizon_vga"
+description = "A video-level automatest test harness for my RISC-V processor core."
+version = "0.1.0-dev"
+
+authors = ["Connor Link"]
+maintainers = ["Connor Link <connor@connorjlink.com>"]
+licenses = "MIT"
+website = "https://github.com/connorjlink/horizon-vga"
+tags = []
